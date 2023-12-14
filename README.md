@@ -106,5 +106,4 @@ gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 ---
 
 ## Authors
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
-* **Wescott Sharples** - [wescottsharples](https://github.com/wescottsharples)
+**Jamees Nzioka**
