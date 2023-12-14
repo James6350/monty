@@ -107,3 +107,4 @@ gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 
 ## Authors
 **Jamees Nzioka**
+**Kelvin Maina**
